@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tradecaluculator/static/css/main.edeae871.css",
+    "main.js": "/tradecaluculator/static/js/main.2683ece5.js",
+    "static/js/453.681801e6.chunk.js": "/tradecaluculator/static/js/453.681801e6.chunk.js",
+    "index.html": "/tradecaluculator/index.html",
+    "main.edeae871.css.map": "/tradecaluculator/static/css/main.edeae871.css.map",
+    "main.2683ece5.js.map": "/tradecaluculator/static/js/main.2683ece5.js.map",
+    "453.681801e6.chunk.js.map": "/tradecaluculator/static/js/453.681801e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edeae871.css",
+    "static/js/main.2683ece5.js"
+  ]
+}
